@@ -15,8 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- CS193 teaches me how to use the tools I'll need for my future
+- C193 is only once a week :)
+- CS193 seems to have cool profs
+- CS193 doesn't make me dig into "who I really am" like CS191
 
 1. Numbered
 2. List
