@@ -1,14 +1,25 @@
 ## Kyleigh's First CS193 Homework
 
 - CS193 teaches me how to use the tools I'll need for my future
+
+
 - C193 is only once a week :)
+
+
 - CS193 seems to have cool profs
+
+
 - CS193 doesn't make me dig into "who I really am" like CS191
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
+
+
+
+
 
 ### Support or Contact
 
